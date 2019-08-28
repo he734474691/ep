@@ -224,7 +224,7 @@
 
 }
 .cases .caseSmall:hover{
-    opacity: :0.8;
+    opacity: 0.8;
 }
 .caseSmall .caseSmall：hover img{
     transform: scale(1.1);
